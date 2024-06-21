@@ -389,6 +389,5 @@ succes("""
       }
     }
     
-    Hiç bir şekilde düzeltemezseniz mail adresim:
-        foursupport@protonmail.com
+    EĞER BİR HATTA OLURSA DİSCORDDAN BANA ULAŞIN İSMİM (hz.maho)
 """)
